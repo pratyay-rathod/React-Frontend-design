@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "title":"ModelY",
+        "image":"./images/ModelY.jpg"
+    },
+    {
+        "id":2,
+        "title":"ModelS",
+        "image":"./images/ModelS.jpg"
+    },
+    {
+        "id":3,
+        "title":"Model3",
+        "image":"./images/Model3.jpg"
+    },
+    {
+        "id":4,
+        "title":"Model4",
+        "image":"./images/Model4.jpg"
+    }
+]   
